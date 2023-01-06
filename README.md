@@ -52,7 +52,7 @@ LinkedIn: [Vaibhav Ghawale](https://www.linkedin.com/in/vaibhavghawale15/)
 👤 **[@Akash Kumar Singh](https://akashsinghdto55.github.io/)** <br>
 GitHub: [akashsinghdto55](https://github.com/thecodervaibhav) <br>
 LinkedIn: [Akash Kumar Singh](https://www.linkedin.com/in/akash-singh-a11458213/)
-<br>Worked on Admin Module
+<br>Worked on Admin/Admin Login and User/User Login Module
 
   👤 **[@Virendra Kumar Dwivedi](https://virendrakumardwivedi.github.io/)** <br>
 GitHub: [Virendrakumardwivedi](https://github.com/Virendrakumardwivedi) <br>
